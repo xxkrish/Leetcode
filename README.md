@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/xxkrish/Leetcode/tree/master/0049-group-anagrams) |
+| [0394-decode-string](https://github.com/xxkrish/Leetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/xxkrish/Leetcode/tree/master/0875-koko-eating-bananas) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/xxkrish/Leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/xxkrish/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
